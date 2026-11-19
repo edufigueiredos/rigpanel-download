@@ -3,7 +3,7 @@
 Download temporário do agente do RigPanel para Windows, enquanto a versão da Microsoft Store não é publicada. Site: https://rigpanel.pages.dev
 
 ## Como instalar
-1. Baixe o `RigPanel-win-x64.zip` na seção **Releases** deste repositório.
+1. Baixe o [RigPanel-win-x64.zip](https://github.com/edufigueiredos/rigpanel-download/releases/latest/download/RigPanel-win-x64.zip) (86 MB; também na seção **Releases**).
 2. Descompacte numa pasta sua (por exemplo, `C:\RigPanel`).
 3. Clique com o botão direito em `PainelPc.Agent.exe` e escolha **Executar como administrador** (o FPS e os sensores precisam disso).
 4. Se aparecer "O Windows protegeu o computador", clique em **Mais informações** e depois em **Executar assim mesmo**. O programa ainda não tem assinatura de código.
